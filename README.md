@@ -5,8 +5,11 @@ Follow below steps to setup this application .
 
 Prerequisite:
  Install Node.js
+
  Install Visual Studio 2015 Update 3
+
  Configure External Web tools
+ 
  Install TypeScript 2 for Visual Studio 2015
 
 For more information about Prerequisites , please refer to https://angular.io/docs/ts/latest/cookbook/visual-studio-2015.html
